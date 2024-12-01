@@ -31,7 +31,7 @@
                 <control type="button" id="2388">
                     <label>$LOCALIZE[32064]</label>
                     <selected>Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),5) | [[Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),0) | Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),1)] + String.Contains(Player.Process(video.hdr.type),Dolby)]</selected>
-                    <onclick>Action(pause)</onclick>
+                    <onclick>Action(vs10.original)</onclick>
                     <onclick>Dialog.Close(1141)</onclick>
                 </control>
                 <control type="button" id="2389">
