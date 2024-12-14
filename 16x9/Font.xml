@@ -306,6 +306,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Arial" idloc="31391" unicode="true">
 		<!-- Icons -->
@@ -593,6 +608,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="NoTo" idloc="31964">
 		<!-- Icons -->
@@ -861,6 +891,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Raleway" idloc="31223">
 		<!-- Icons -->
@@ -1129,6 +1174,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Ubuntu Condensed" idloc="31481">
 		<!-- Icons -->
@@ -1431,6 +1491,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Fira Sans" idloc="31482">
 		<!-- Icons -->
@@ -1699,6 +1774,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Caviar Dreams" idloc="31483">
 		<!-- Icons -->
@@ -2000,6 +2090,21 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 	<fontset id="Play Regular" idloc="31484">
 		<!-- Icons -->
@@ -2301,5 +2406,20 @@
 			<size>36</size>
 			<linespacing>.8</linespacing>
 		</font>
+        <font>
+            <name>OpenSansSemiCondensed</name>
+            <filename>OpenSans_SemiCondensed-Medium.ttf</filename>
+            <size>23</size>
+        </font>
+        <font>
+            <name>ArialUni</name>
+            <filename>arialuni.ttf</filename>
+            <size>42</size>
+        </font>
+        <font>
+            <name>ArialUniSmall</name>
+            <filename>arialuni.ttf</filename>
+            <size>23</size>
+        </font>
 	</fontset>
 </fonts>
